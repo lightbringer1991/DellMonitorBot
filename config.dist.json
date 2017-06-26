@@ -1,0 +1,12 @@
+{
+  "email": {
+    "host": "localhost",
+    "port": 465,
+    "secure": true,
+    "auth": {
+      "user": "username",
+      "pass": "password"
+    }
+  },
+  "subscriptions": ["notification_email@example.com", "notification_email2@example.com"]
+}

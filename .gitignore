@@ -1,0 +1,5 @@
+.idea/
+node_modules/
+logs/
+!logs/.gitkeep
+config.json
